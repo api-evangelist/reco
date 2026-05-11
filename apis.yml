@@ -28,6 +28,16 @@ common:
     url: https://www.reco.ai
   - type: Documentation
     url: https://www.reco.ai/resources
+  - type: Integrations
+    url: https://www.reco.ai/integrations
+integrations:
+  - name: Salesforce Protect your business-critical data
+  - name: Microsoft 365 Securely create & collaborate
+  - name: ServiceNow Prevent unauthorized access
+  - name: Workday Secure employee data
+  - name: Slack
+  - name: Veeva
+  - name: SentinelOne
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
