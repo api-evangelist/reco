@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://www.reco.ai/resources
 common:
+  - type: GitHubOrganization
+    url: https://github.com/recolabs
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/recolabs
   - type: Website
     url: https://www.reco.ai
   - type: Documentation
