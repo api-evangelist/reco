@@ -34,6 +34,8 @@ common:
     url: https://www.reco.ai/resources
   - type: Integrations
     url: https://www.reco.ai/integrations
+  - type: LLMsTxt
+    url: https://www.reco.ai/llms.txt
 integrations:
   - name: Salesforce Protect your business-critical data
   - name: Microsoft 365 Securely create & collaborate
