@@ -34,7 +34,7 @@ common:
     url: https://www.reco.ai/resources
   - type: Integrations
     url: https://www.reco.ai/integrations
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.reco.ai/llms.txt
 integrations:
   - name: Salesforce Protect your business-critical data
