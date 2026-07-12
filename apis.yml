@@ -24,6 +24,10 @@ apis:
       - type: Documentation
         url: https://www.reco.ai/resources
 common:
+  - type: TrustCenter
+    url: security/reco-trust-center.yml
+  - type: DomainSecurity
+    url: security/reco-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/recolabs
   - type: LinkedIn
@@ -36,6 +40,8 @@ common:
     url: https://www.reco.ai/integrations
   - type: LlmsText
     url: https://www.reco.ai/llms.txt
+  - url: https://www.reco.ai/blog/rss.xml
+    type: Blog
 integrations:
   - name: Salesforce Protect your business-critical data
   - name: Microsoft 365 Securely create & collaborate
