@@ -1,0 +1,127 @@
+# Reco
+
+> Reco is the AI Agent Security platform that discovers, secures, and monitors every AI agent, non-human identity, and SaaS application across 225+ integrations. The platform maps every agent in your environment to its owner, permissions, and risk score, and addresses AI sprawl, agent sprawl, and configuration sprawl in real time. Reco brings agent security, identity governance, and threat detection together in one platform, with 1,000+ pre-built detection controls, no-code support for new apps in 3-5 days, and auto-remediation through your existing stack.
+
+Reco secures the way enterprises actually use AI today. The platform delivers four outcomes: complete agent inventory across SaaS, IDP, API, network, and browser sources; identity and access governance for both human and non-human identities; data exposure management; and threat detection and response. Three proprietary technologies power the platform: Unified Discovery™ finds every agent and app from every source, App Factory™ adds new apps and agent platforms in 3-5 days with no code, and the Knowledge Graph turns every identity, permission, connection, and event into a living map of risk. Reco has raised $85M total after Series B and is trusted by Fortune 500 enterprises and high-growth companies globally.
+
+## The Three Sprawls Reco Solves
+
+- **AI Sprawl** – Embedded AI in SaaS apps, GenAI tools, and copilots expanding faster than security teams can track.
+- **Agent Sprawl** – AI agents deployed across the environment faster than any security team can review or remediate.
+- **Configuration Sprawl** – AI features introducing new permissions and policies that drift from their original state.
+
+## Core Pages
+
+- [Home](https://www.reco.ai) – "Secure every agent. Keep the business moving at the speed of AI."
+- [About Us](https://www.reco.ai/about-us) – Company background and mission.
+- [Demo Request](https://www.reco.ai/demo-request) – Schedule a personalized demo.
+- [Trust Center](https://trust.reco.ai/) – Compliance, audit reports, and security documentation.
+- [Resource Center](https://www.reco.ai/resources) – Guides and reports library.
+- [Contact Us](https://www.reco.ai/contact-us)
+- [Privacy Policy](https://www.reco.ai/privacy-policy) | [Terms of Service](https://www.reco.ai/terms-of-service)
+
+## Platform
+
+- [AI Agent Security](https://www.reco.ai/platform/ai-agent-security) – Discovers every connected AI agent and maps it to owner, permissions, and risk.
+- [AI Governance & Security](https://www.reco.ai/platform/ai-governance-security) – Controls AI agents, agentic AI, and embedded AI usage.
+- [Reco AI Agents](https://www.reco.ai/ai-agents-for-saas-security) – AI agents that automate SaaS security workflows.
+- [Agentic AI Security](https://www.reco.ai/agentic-ai-security) – Securing autonomous agents and detecting compromised behavior.
+- [Application Discovery](https://www.reco.ai/platform/application-discovery) – Shadow SaaS, shadow AI, and OAuth scope analysis.
+- [Identity & Access Governance](https://www.reco.ai/platform/identity-and-access-governance) – Human and non-human identities in one view.
+- [Posture Management & Compliance](https://www.reco.ai/platform/saas-posture-management-and-compliance) – Real-time misconfiguration detection.
+- [Threat Detection & Response](https://www.reco.ai/platform/identity-threat-detection-and-response) – 1,000+ detections with auto-remediation.
+- [Data Exposure Management](https://www.reco.ai/platform/data-exposure-management) – Sensitive data discovery and least-privilege enforcement.
+- [SaaS App Factory™](https://www.reco.ai/platform/saas-app-factory) – No-code engine adding new apps in 3-5 days.
+
+## Solutions
+
+- [SSPM](https://www.reco.ai/solutions/saas-security-posture-management-sspm)
+- [Real-Time Threat Detection](https://www.reco.ai/solutions/real-time-threat-detection)
+- [Automated SaaS Compliance Monitoring](https://www.reco.ai/solutions/automated-saas-compliance-monitoring)
+- [Data Access Governance](https://www.reco.ai/solutions/data-access-governance)
+- [Agentic Security Posture Management](https://www.reco.ai/solutions/agentic-security-posture-management)
+- [SaaS Inventory Management](https://www.reco.ai/solutions/saas-inventory-management)
+- [SaaS Applications Security](https://www.reco.ai/solutions/saas-applications-security)
+- [Generative AI Discovery](https://www.reco.ai/solutions/generative-ai-discovery)
+- [Identity Lifecycle Management](https://www.reco.ai/solutions/identity-lifecycle-management)
+
+## Integrations
+
+Reco integrates with 225+ apps and agent platforms. Full list at the [Integrations Hub](https://www.reco.ai/integrations). Major platforms include [Microsoft 365](https://www.reco.ai/integrations/microsoft-365), [Google Workspace](https://www.reco.ai/integrations/google-workspace), [Salesforce](https://www.reco.ai/integrations/salesforce), [ServiceNow](https://www.reco.ai/integrations/servicenow), [Workday](https://www.reco.ai/integrations/workday), [Slack](https://www.reco.ai/integrations/slack), [Okta](https://www.reco.ai/integrations/okta), [Veeva](https://www.reco.ai/integrations/veeva), and [SentinelOne](https://www.reco.ai/integrations/sentinelone). AI tools covered include [ChatGPT](https://www.reco.ai/integrations/chatgpt-tpr), [Claude](https://www.reco.ai/integrations/anthropic-tpr), [Microsoft Copilot](https://www.reco.ai/integrations/microsoft-copilot-tpr), and [Cursor](https://www.reco.ai/integrations/cursor-tpr). Reco also partners with [Cyera](https://www.reco.ai/integrations/cyera-tpr) for data-aware SaaS AI security.
+
+## Compare
+
+Reco's [Compare Hub](https://www.reco.ai/compare) evaluates Reco against alternatives across categories:
+
+- [Best AI Agent Security Tools for CISOs](https://www.reco.ai/compare/best-ai-agent-security-tools-for-cisos)
+- [AI Governance Tools](https://www.reco.ai/compare/ai-governance-tools)
+- [Shadow AI Detection Tools](https://www.reco.ai/compare/shadow-ai-detection-tools)
+- [Top SSPM Tools](https://www.reco.ai/compare/top-sspm-tools)
+- [Top ITDR Tools](https://www.reco.ai/compare/top-itdr-tools)
+
+## Learning Center
+
+The [Learning Center](https://www.reco.ai/learn) defines key concepts:
+
+- [What is SaaS Security](https://www.reco.ai/learn/what-is-saas-security)
+- [What is SSPM](https://www.reco.ai/learn/what-is-sspm)
+- [What is AI Sprawl](https://www.reco.ai/learn/what-is-ai-sprawl)
+- [AI Agent Sprawl](https://www.reco.ai/learn/ai-agent-sprawl)
+- [Shadow AI](https://www.reco.ai/learn/shadow-ai)
+- [Non-Human Identity](https://www.reco.ai/learn/non-human-identity)
+- [MCP Security](https://www.reco.ai/learn/mcp-security)
+- [ITDR](https://www.reco.ai/learn/identity-threat-detection-and-response-itdr)
+
+## CISO Hub
+
+The [CISO Hub](https://www.reco.ai/ciso-hub) covers executive-level AI and SaaS security strategy — board reporting, budget justification, vendor evaluation, and translating GenAI risk into business terms.
+
+## IT Hub
+
+The [IT Hub](https://www.reco.ai/hub) provides 100+ platform-specific guides for IT teams covering Microsoft 365, Entra ID, SharePoint, Teams, Salesforce, ServiceNow, Workday, Slack, Zoom, GitHub, and Google Workspace.
+
+## Key Guides & Reports
+
+- [CISO Guide to AI Security](https://www.reco.ai/ciso-guide-to-ai-security) – Control AI agents without slowing the business.
+- [CISO Guide to ChatGPT Risk in the Enterprise](https://www.reco.ai/ciso-guide-to-chatgpt-risk-in-the-enterprise)
+- [CISO Guide to Shadow AI](https://www.reco.ai/ciso-guide-to-shadow-ai)
+- [State of Shadow AI Report](https://www.reco.ai/state-of-shadow-ai-report) – Original research on enterprise shadow AI usage.
+- [State of SaaS Security Report](https://www.reco.ai/state-of-saas-security)
+- [SSPM Market Insight Report](https://www.reco.ai/sspm-market-insight-report)
+- [Agentic Security Posture Management Market Guide](https://www.reco.ai/agentic-security-posture-management-market-guide)
+
+## Customer Stories
+
+See all on the [Customer Stories](https://www.reco.ai/customer-stories) page.
+
+- [Wellstar Health](https://www.reco.ai/wellstar-customer-testimonial) – Largest non-profit health system in Georgia tackled shadow IT and secured PHI.
+- [BigID](https://www.reco.ai/bigid-customer-testimonial) – Accelerated threat detection and response, eliminating months of manual work.
+- [CSK Legal](https://www.reco.ai/csk-customer-testimonial) – Florida's largest litigation firm secures GenAI usage and client data.
+- [RFA](https://www.reco.ai/rfa-customer-testimonial) – MSSP delivers MDR services to clients using Reco.
+- [Exela Pharma](https://www.reco.ai/exela-pharma-customer-testimonial) – Specialty pharma reduced SaaS attack surface across Veeva, SAP, M365.
+- [Belk](https://www.reco.ai/belk-customer-testimonial) – Major retailer unified security, IT, and business teams.
+
+## Featured Research
+
+- [Reco Launches Industry-First AI Agent Security](https://www.reco.ai/blog/reco-launches-industry-first-ai-agent-security-to-tackle-agent-sprawl-across-saas)
+- [The Salesloft-Drift Breach: Analyzing the Biggest SaaS Breach of 2025](https://www.reco.ai/blog/the-salesloft-drift-breach-analyzing-the-biggest-saas-breach-of-2025)
+- [Real AI Security Incidents: Lessons from the Field](https://www.reco.ai/blog/real-ai-security-incidents)
+- [Reco Integrates Cyera DSPM for Complete Data-Aware SaaS and AI Security](https://www.reco.ai/blog/reco-integrates-cyera-dspm-to-deliver-complete-data-aware-saas-and-ai-security)
+- [Reco Named a Leader in 2025 GigaOm SSPM Radar](https://www.reco.ai/blog/reco-named-a-leader-and-fast-mover-in-2025-gigaom-saas-security-posture-management-sspm-radar)
+
+## Company
+
+- [Blog](https://www.reco.ai/blog) | [Webinars & Videos](https://www.reco.ai/videos-webinars) | [Newsroom](https://www.reco.ai/newsroom)
+- [Careers](https://www.reco.ai/careers) | [Partners](https://www.reco.ai/partners) | [Brand Guidelines](https://www.reco.ai/brand-guidelines)
+
+## Recognition & Compliance
+
+GigaOm SSPM Radar 2025 Leader. 2025 SINET16 Innovator. Global InfoSec Awards Winner (2024, 2026). CRN Stellar Startup (2024, 2025). Cyber 150 Winner 2025. Forbes Technology Council and Cloud Security Alliance member. AICPA SOC, ISO 27001, ISO 42001, EU AI Act, CSA STAR Level 1.
+
+## Key Statistics
+
+- **225+** apps and agent platforms supported
+- **1,000+** pre-built detection controls
+- **3-5 days** to add new apps (industry standard: months)
+- **40%** of apps projected to be agentic by end of year
+- **$85M** total funding raised (after $30M Series B)
