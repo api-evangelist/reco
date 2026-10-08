@@ -47,6 +47,12 @@ apis:
       - type: Documentation
         url: https://www.reco.ai/resources
 common:
+  - type: Plans
+    url: plans/reco-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/reco-rate-limits.yml
+  - type: FinOps
+    url: finops/reco-finops.yml
   - type: TrustCenter
     url: security/reco-trust-center.yml
   - type: DomainSecurity
