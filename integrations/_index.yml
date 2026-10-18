@@ -66,3 +66,29 @@
   relationship: platform-app
   status: not-a-workflow
   arazzo: null
+- slug: reco-slack-own
+  label: Slack (own)
+  partner: slack
+  partner_name: Slack (own)
+  category: Slack app
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://slack.com/marketplace/A07NSPK3LKC-reco-for-enterprise
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: reco-zoom-own
+  label: Zoom (own)
+  partner: zoom
+  partner_name: Zoom (own)
+  category: Zoom app
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://marketplace.zoom.us/apps/8l1ATL7CS0Ocu64GPNuF-g
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
